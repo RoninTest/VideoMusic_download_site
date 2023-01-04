@@ -1,0 +1,122 @@
+
+#main-nav{
+    
+    width: 30%;
+    background-color:black;
+    
+    justify-content: center;
+    margin:auto ;
+    border-radius: 5px;
+
+}
+
+#p-musicheader{
+    
+    color: black;
+    text-align: center;
+    font-weight: 600;
+
+
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+   
+}
+
+ul.nav{
+    display: inline;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid #dfdfdf;
+
+}
+
+
+ul li a{
+    color: gray;
+    text-decoration: none;
+    padding: 5px; 
+
+}
+
+ul.nav a.active{
+    border-bottom: 2px solid yellowgreen;
+    font-weight: 10;
+    
+}
+
+.center{
+    text-align: center;
+}
+
+#s-input{
+    width: 20px;
+}
+
+a.active{
+    font-family: monospace;
+    padding: 0.5%;
+}
+
+.container{
+    margin-top: 100px;
+    font-size: medium;
+    font-family:monospace;
+    
+}
+
+#navbar{
+    width: 100%;
+    text-align: center;
+    
+}
+
+li{
+    display: inline;
+}
+
+.card{
+    
+    margin: auto;
+    margin-top: 5%;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
